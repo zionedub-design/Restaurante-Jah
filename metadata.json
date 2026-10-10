@@ -1,0 +1,6 @@
+{
+  "name": "KDS Comanda - Painel de Cozinha",
+  "description": "Sistema KDS (Kitchen Display System) para gerenciamento e preparação de pedidos de restaurante com sincronização no Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
